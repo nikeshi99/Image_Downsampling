@@ -1,1 +1,1 @@
-# Image_Downsampling
+# Image Downsampling with FPGA
